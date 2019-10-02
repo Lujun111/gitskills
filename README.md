@@ -12,4 +12,5 @@ Till the ocean is folded and hung up to dry
 
 Git is a free software.
 
-I have added something to .gitignore. 
+I have added something to .gitignore.
+modify README 
